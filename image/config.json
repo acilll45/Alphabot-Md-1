@@ -1,0 +1,30 @@
+{
+    "ownerNumber": ["6283838757324@s.whatsapp.net","6288225488682@s.whatsapp.net"],
+    "ownerName": "ᴹᴿAcilll𓆌 ×፝֟͜×",
+    "instagram" : "https://instagram.com/acil.pedia",
+    "gcwa" : "https://instabio.cc/Alphabot",
+    "botName": "YaeMiko-MD あ ",
+    "footer": "YaeMiko Bot By Acill あ",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "4uRSPBJTwM3r7xq",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": false,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
